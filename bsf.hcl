@@ -5,7 +5,7 @@ packages {
 }
 
 oci "pkgs" {
-  name          = "saiyam911/devops-kube-proj"
+  name          = "obasoro/devops-project"
   cmd           = []
   entrypoint    = []
   envVars       = []
